@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><br>
+<p align="left">
                       
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naga-phaneendra-kandanuru-265873257)
