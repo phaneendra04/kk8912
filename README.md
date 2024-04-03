@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Naga Phaneendra Kandanuru 
+<h1 align="center"><font face="Arial">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Naga Phaneendra Kandanuru 
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/naga-phaneendra-kandanuru-265873257/" target="_blank" rel="noreferrer">Phaneendra</a> A passionate Front-End Developer.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
