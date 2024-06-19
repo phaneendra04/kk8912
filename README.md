@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Naga Phaneendra Kandanuru 
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/naga-phaneendra-kandanuru-265873257/" target="_blank" rel="noreferrer">Phaneendra</a> A passionate Web Developer </font></h3>
+<h1 align="center"><font face="Arial">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=350&lines=I'm+Naga+Phaneendra;Student,+Front-End+Developer)](https://git.io/typing-svg)
+  
 
 <!-- Schedule a 1-on-1 Call Section -->
 
@@ -37,7 +39,8 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naga-phaneendra-kandanuru-265873257/)
+
+<a href="https://www.linkedin.com/in/naga-phaneendra-kandanuru-265873257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-bosman0" height="30" width="40" /></a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_nani._.phani_/) 
 
