@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk8912&theme=midnight_purple&alt="kk8912")
 &nbsp;![kk8912's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kk8912&theme=midnight-purple&hide_border=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
