@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kk8912&theme=midnight_purple&alt="kk8912")
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk8912&theme=midnight_purple&alt="kk8912")
 &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=kk8912&theme=midnight-purple&hide_border=true&alt="kk8912")
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kk8912&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&alt="kk8912")
 
 
 <h3 align="left">Connect with me:</h3>
