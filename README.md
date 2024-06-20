@@ -59,7 +59,13 @@ Here are some ideas to get you started:
 <!-- GitHub stats : -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kk8912&theme=midnight_purple&alt="kk8912")
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk8912&theme=midnight_purple&alt="kk8912")
-&nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=kk8912&theme=midnight_purple&hide_border=true)
+&nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=kk8912&theme=midnight-purple&hide_border=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kk8912&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 <h3 align="left">Connect with me:</h3>
