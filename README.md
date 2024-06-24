@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Front-End!
 - 😄 Pronouns: He/him
 
-
+<br>
 
 ## 🌐 Socials:
 
