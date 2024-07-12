@@ -50,8 +50,6 @@ Here are some ideas to get you started.
 <p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>
 <p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/>
 
-# 📊 GitHub Stats:
-<!-- GitHub stats : -->
 
 
 
