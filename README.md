@@ -13,17 +13,19 @@ Here are some ideas to get you started.
 - ⚡ Fun fact: ...
 
 
-
+<!-- Header Section -->
 
 <h1 align="center"><font face="Arial">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=350&lines=I'm+Naga+Phaneendra;Student,+Front-End+Developer)](https://git.io/typing-svg)
   
 
+<!-- Schedule a 1-on-1 Call Section -->
 
+<!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-
+<!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">About Me!</font></h3>
 
 - 💻 A computer science student
@@ -53,7 +55,7 @@ Here are some ideas to get you started.
 <p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/>
 
 # 📊 GitHub Stats:
-
+<!-- GitHub stats : -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kk8912&theme=transparent)
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk8912&theme=transparent)
 &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=kk8912&theme=transparent&hide_border=true" alt="kk8912" />
@@ -64,4 +66,3 @@ Here are some ideas to get you started.
                  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naga-phaneendra-kandanuru-265873257/)
 
--->
