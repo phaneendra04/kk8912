@@ -28,6 +28,7 @@ Here are some ideas to get you started.
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">About Me!</font></h3>
+
 - 💻 A Computer Science Student.
 
 - 🌱 I’m learning and exploring Front-End Development, AWS.
