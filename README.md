@@ -23,17 +23,22 @@ Here are some ideas to get you started.
 <!-- Schedule a 1-on-1 Call Section -->
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+<img align="right" height="330" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">About Me!</font></h3>
+- 💻 A Computer Science Student.
 
-- 💻 A computer science student
-- 🌱 I’m learning and exploring Front-End Development.
-- 👯 I’m open to collaborating on projects.
+- 🌱 I’m learning and exploring Front-End Development, AWS.
+  
+- 🌐 I'm open to collaborating on projects.
+
+- 👨‍💻 All of my projects are available at [https://github.com/kk8912?tab=repositories](https://github.com/kk8912?tab=repositories)
+
+- 💬 Ask me about **Front-End, AWS**.
+
 - 📫 How to reach me **knagaphani123@gmail.com**
-- 💬 Ask me about Front-End!
-- 😄 Pronouns: He/him
 
 <br>
 
@@ -46,12 +51,10 @@ Here are some ideas to get you started.
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Phaneendra04) 
 
 # 💻 Tech Stack:
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp; <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp; <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>
 <p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/>
 
 # 📊 GitHub Stats:
