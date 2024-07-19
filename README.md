@@ -24,7 +24,7 @@ Here are some ideas to get you started.
 
 <!-- GIF -->
 
-<img align="right" height="325" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" height="325" width="470" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">About Me!</font></h3>
