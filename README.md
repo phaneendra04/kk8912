@@ -23,6 +23,9 @@ Here are some ideas to get you started.
 <!-- Schedule a 1-on-1 Call Section -->
 
 <!-- GIF -->
+<h1 >Visits: </h1>    
+
+![Visitor Count](https://profile-counter.glitch.me/kk8912/count.svg)
 
 <img align="right" height="325" width="470" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
@@ -45,11 +48,7 @@ Here are some ideas to get you started.
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/naga-phaneendra-kandanuru-265873257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-bosman0" height="30" width="40" /></a>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_nani._.phani_/) 
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Phaneendra04) 
+<a href="https://www.linkedin.com/in/naga-phaneendra-kandanuru-265873257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-bosman0" height="30" width="40" /></a> &nbsp; <a href="https://instagram.com/_nani._.phani_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nani._.phani_" height="30" width="40" /></a> &nbsp; [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Phaneendra04) 
 
 # 💻 Tech Stack:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp; <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>
