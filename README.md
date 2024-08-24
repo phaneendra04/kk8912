@@ -23,9 +23,7 @@ Here are some ideas to get you started.
 <!-- Schedule a 1-on-1 Call Section -->
 
 <!-- GIF -->
-<h1 >Visits: </h1>    
 
-![Visitor Count](https://profile-counter.glitch.me/kk8912/count.svg)
 
 <img align="right" height="325" width="470" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
