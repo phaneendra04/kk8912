@@ -17,7 +17,7 @@ Here are some ideas to get you started.
 
 <h1 align="center"><font face="Arial">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=350&lines=I'm+Naga+Phaneendra;Student,+Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=350&lines=I'm+Naga+Phaneendra;Software+Engineer)](https://git.io/typing-svg)
   
 
 <!-- Schedule a 1-on-1 Call Section -->
@@ -36,7 +36,7 @@ Here are some ideas to get you started.
   
 - 🌐 I'm open to collaborating on projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/kk8912?tab=repositories](https://github.com/kk8912?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/phaneendra04?tab=repositories](https://github.com/phaneendra04?tab=repositories)
 
 - 💬 Ask me about **Front-End, AWS**.
 
@@ -57,9 +57,9 @@ Here are some ideas to get you started.
 
 # 📊 GitHub Stats:
 <!-- GitHub stats : -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kk8912&theme=transparent)
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk8912&theme=transparent)
-&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=kk8912&theme=transparent&hide_border=true" alt="kk8912" /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phaneendra04&theme=transparent)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phaneendra04&theme=transparent)
+&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=phaneendra04&theme=transparent&hide_border=true" alt="phaneendra04" /> 
 
 
 <h3 align="left">Connect with me:</h3>
